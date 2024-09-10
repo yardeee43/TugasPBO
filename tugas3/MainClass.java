@@ -11,7 +11,6 @@ public class MainClass {
 
         System.out.println();
 
-        // Membuat objek Kucing
         Revo revo = new Revo ("Revo");
         revo.dealer();
         revo.gerak();

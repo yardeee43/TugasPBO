@@ -1,7 +1,3 @@
-KETERANGAN TUGAS PEMROGRAMAN BEROREANTASI OBJEK
+# Latihan PBO Java
 
-TUGAS 1  = EXTENDS, SET, GET
-
-TUGAS 2  = CASTING, CONSTRUCTOR, THIS, SUPER, IMPLEMENTS
-
-TUGAS 3  = ABSTRACT, OVERLOAD, OVERRIDE
+Repositori ini berisi serangkaian latihan yang berkaitan dengan Pemrograman Berorientasi Objek (OOP) dalam bahasa Java. Latihan-latihan ini dirancang untuk membantu Anda memahami dan mempraktikkan konsep-konsep penting dalam PBO

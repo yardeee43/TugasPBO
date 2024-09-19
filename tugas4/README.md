@@ -1,6 +1,6 @@
 ### Tugas 4: Try catch, Throws, Custom Exception,dan CRUD
 
-1. **Try-Catch**: Digunakan untuk menangani exception yang mungkin terjadi selama program berjalan. Kode yang berpotensi menyebabkan error dimasukkan dalam blok `try`, dan penanganan kesalahan dilakukan dalam blok `catch`.
+1. **Try-Catch**: Digunakan untuk menangani kesalahan yang mungkin terjadi selama program berjalan. Kode yang berpotensi menyebabkan error dimasukkan dalam blok `try`, dan penanganan kesalahan dilakukan dalam blok `catch`.
 
 2. **Throws**: Menunjukkan bahwa suatu metode dapat melemparkan exception yang harus ditangani oleh pemanggilnya.
 

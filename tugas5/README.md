@@ -1,5 +1,5 @@
-#TUGAS 5
-##CRUD JAVA SWING
+# TUGAS 5
+## CRUD JAVA SWING
 
 File ini akan menjelaskan tentang CRUD (Create,Read,Update,Delete) menggunakan java swing
 

@@ -8,6 +8,6 @@
 
 4. **JDBC CRUD**: Implementasi CRUD (Create, Read, Update, Delete) menggunakan JDBC untuk berinteraksi dengan database. 
    - **Create**: Menambah data ke database.
-   - **Read**: Membaca data dari database.
+   - **Read**: Menampilkan data dari database.
    - **Update**: Memperbarui data yang ada.
    - **Delete**: Menghapus data dari database.
